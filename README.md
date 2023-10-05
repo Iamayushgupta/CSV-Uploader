@@ -1,4 +1,4 @@
-**Problem Statement**:
+## Problem Statement**:
 Make a CSV Importer for Google Sheets that lets users drag and drop CSV files onto the Google Sheet. The moment they drop the CSV file, allow them to select which columns to import 🗂️.
 
 ## Approach to the Problem
@@ -12,10 +12,10 @@ https://www.notion.so/Uploading-CSV-file-to-Google-Spreadsheet-66758525d4ac41198
 
 ## Steps to run the code
 1. Create a new Folder
-2. git clone git@github.com:StackItHQ/stackit-hiring-assignment-Iamayushgupta.git
+2. git clone 
 3. Run the following commands :-
 4. npm init -y
 5. npm install
-6. Either create your own GCP project(Follow the Notion link) or please ask for credentials.json ans token.json file by contacting ayushgupta71011@gmail.com 
+6. Either create your own GCP project(Follow the Notion link) or please ask for credentials.json and token.json file by contacting ayushgupta71011@gmail.com 
 7. Provide your own FilePath for csv and the columns which you need the array
 8. node index.js  (To run the project)
